@@ -103,7 +103,7 @@ GEM
       activesupport (>= 6.1)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
-    importmap-rails (1.2.3)
+    importmap-rails (2.0.0)
       actionpack (>= 6.0.0)
       activesupport (>= 6.0.0)
       railties (>= 6.0.0)
@@ -157,7 +157,7 @@ GEM
     psych (5.1.2)
       stringio
     public_suffix (5.0.4)
-    puma (6.4.0)
+    puma (6.4.1)
       nio4r (~> 2.0)
     racc (1.7.3)
     rack (3.0.8)
