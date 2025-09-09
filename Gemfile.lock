@@ -165,7 +165,7 @@ GEM
       date
       stringio
     public_suffix (6.0.2)
-    puma (7.0.0)
+    puma (7.0.2)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.2.1)
@@ -216,8 +216,8 @@ GEM
     regexp_parser (2.11.2)
     reline (0.6.2)
       io-console (~> 0.5)
-    rexml (3.4.2)
-    rubyzip (3.0.2)
+    rexml (3.4.3)
+    rubyzip (3.1.0)
     securerandom (0.4.1)
     selenium-webdriver (4.35.0)
       base64 (~> 0.2)
@@ -300,4 +300,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.7.1
+   2.7.2
